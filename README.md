@@ -27,7 +27,7 @@ To use the program, you'll need to have Python 3.x installed along with a few re
 2. **Run the program:**
    After installation, run the program using the following command:
    ```bash
-   python3 ./Anonytalk/main.py
+   python3 ./Anonytalk/src/main.py
    ```
 
 ---
