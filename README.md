@@ -11,8 +11,7 @@ This Python-based Graphical User Interface (GUI) program allows users to securel
 - Simple interface for easy usage.
 
 ---
-## Run on Repl.it
- https://replit.com/@replitunturned3/Anonytalk
+
 ---
 
 ## Installation
