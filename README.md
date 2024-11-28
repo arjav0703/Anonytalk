@@ -2,6 +2,8 @@
 ## A string Encryptor/Decryptor Using Fernet
 
 This Python-based Graphical User Interface (GUI) program allows users to securely encrypt and decrypt strings using the **Fernet** encryption algorithm. The program provides an intuitive interface where users can easily enter a string, encrypt it using a key, and decrypt the string with the same key.
+
+## Click to watch video
 [![Watch the video](https://cloud-qptgbw0gx-hack-club-bot.vercel.app/0image.png)](https://cloud-iu24iauzr-hack-club-bot.vercel.app/0screencast_from_2024-11-27_19-30-17.mp4)
 ## Features:
 - Encrypt and decrypt strings with Fernet symmetric encryption.
