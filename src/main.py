@@ -46,7 +46,7 @@ def decrypt():
 def copy_to_clipboard():
     window.clipboard_clear()  # Clear the clipboard
     window.clipboard_append(output_text.get(1.0, END))  # Append the output text to the clipboard
-    messagebox.showinfo("Copied", "Output copied to clipboard!")
+    messagebox.showinfo("Copied", "Output copied to clipboard!") # Create a message box that shows confirmation 
 
 def load_screen():
     global txt_1
