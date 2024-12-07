@@ -1,5 +1,5 @@
 # Anonytalk
-## NOTE: THIS PROJECT WAS BUILT BY FOLLOWING A TUTORIAL https://youtu.be/y9cbTf1CLt8?si=6meScMmtWmDVw_0E AND I HAVE DONE SOME GRAPHICS ADDITIONS.
+## NOTE: THIS PROJECT WAS BUILT BY FOLLOWING A TUTORIAL https://youtu.be/y9cbTf1CLt8?si=6meScMmtWmDVw_0E AND I HAVE DONE SOME ADDITIONS LIKE GREPHICS AND COPY TO CLIPBOARD.
 ## A string Encryptor/Decryptor Using Fernet
 
 This Python-based Graphical User Interface (GUI) program allows users to securely encrypt and decrypt strings using the **Fernet** encryption algorithm. The program provides an intuitive interface where users can easily enter a string, encrypt it using a key, and decrypt the string with the same key.
